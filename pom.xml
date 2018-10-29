@@ -38,12 +38,12 @@
         <repository>
             <id>NexusServer</id>
             <name>deployment</name>
-            <url>http://192.168.1.10:8081/repository/SUBHAM_REPO1/</url>
+            <url>http://192.168.1.10:8081/repository/SUBHAM_REPO2/</url>
         </repository>
         <snapshotRepository>
             <id>NexusServer</id>
             <name>deployment</name>
-            <url>http://192.168.1.10:8081/repository/SUBHAM_REPO2/</url>
+            <url>http://192.168.1.10:8081/repository/SUBHAM_REPO1/</url>
         </snapshotRepository>
 </distributionManagement>
 </project>
